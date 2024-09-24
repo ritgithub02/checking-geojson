@@ -18,12 +18,12 @@ In addition to my analytical expertise, I have a solid background in developing 
 ## 📚 Education
 
 **Indian Institute of Technology (Indian School of Mines), Dhanbad**  
-*Master of Science and Technology* (GPA: 2.91 / 4.00)  
+*Master of Science and Technology* 
 *Jul 2022 – May 2025*  
 Relevant Coursework: Deep Learning, Digital Signal Processing, Image Processing, Remote Sensing, Geophysical Methods, Geology.
 
 **Banaras Hindu University**  
-*Bachelor of Science, (Hons) Physics* (GPA: 3.14 / 4.00)  
+*Bachelor of Science, (Hons) Physics*
 *Aug 2019 – May 2022*  
 Relevant Coursework: Programming for Problem Solving, Calculus, Mathematical Physics, Electromagnetic Theory, Quantum Mechanics.
 
