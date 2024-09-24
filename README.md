@@ -102,7 +102,6 @@ Relevant Coursework: Programming for Problem Solving, Calculus, Mathematical Phy
 
 - **Graphic Designer & Video Editor**  
 - **Core Member**: Geophysical Society, IIT Dhanbad  
-- **Class Representative**: Bachelors, Banaras Hindu University  
 - **Sports**: Badminton, Chess, Table Tennis
 
 ---
