@@ -4,10 +4,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ritgit210)
 [![Email](https://img.shields.io/badge/Email-22mc0071@iitism.ac.in-red)](mailto:22mc0071@iitism.ac.in)
 
-## 👨‍🎓 Career Summary
 
-Earth Science enthusiast with a background in Geophysics, driven to develop innovative solutions and algorithms for geophysical data and problem-solving. I strive to achieve improved outcomes through Machine Learning and Deep Learning.
+🚀 About Me
 
+I am an enthusiastic professional with a strong foundation in Earth Science, passionate about leveraging the power of Data Science and Artificial Intelligence to tackle complex challenges across various domains. My experience in data analysis equips me with the skills to apply advanced Machine Learning and Deep Learning techniques to diverse datasets, enabling innovative solutions and enhanced decision-making.
+
+In addition to my analytical expertise, I have a solid background in developing software applications that streamline data processing and visualization. I thrive on creating robust algorithms and predictive models that contribute to advancements in environmental sustainability, resource management, and a variety of other fields, ensuring a meaningful impact across multiple industries.
 ---
 
 ## 📚 Education
